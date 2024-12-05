@@ -49,7 +49,7 @@ This learning path is designed to help you transition from basic Python knowledg
    - Recommended Resources:
      - XV6 documentation: [https://pdos.csail.mit.edu/6.828/2022/xv6.html](https://pdos.csail.mit.edu/6.828/2022/xv6.html) (Free)
 
-** Phase 4: Learning Development Tools and Go Programming
+** Phase 4: Learning Development Tools and your favorite programming languaje
 1. Master Git:
    - Topics: Version control basics, branching, merging, and collaboration.
    - Recommended Resources:
@@ -61,11 +61,12 @@ This learning path is designed to help you transition from basic Python knowledg
      - "The Linux Command Line" by William Shotts (Free: [https://linuxcommand.org/tlcl.php](https://linuxcommand.org/tlcl.php))
      - TutorialsPoint Linux Guide: [https://www.tutorialspoint.com/unix/index.htm](https://www.tutorialspoint.com/unix/index.htm) (Free)
 
-3. Learn Go programming:
-   - Topics: Go syntax, concurrency, and performance optimization.
-   - Recommended Resources:
-     - "The Go Programming Language" by Alan Donovan and Brian Kernighan (Paid)
+3. Learn a new programming languaje:
+   - Topics: Search by yourself and discover this amasing world.
+   - Recommendations:
+     - Rust: [https://doc.rust-lang.org/stable/book/](https://doc.rust-lang.org/stable/book/) (Free)
      - A Tour of Go: [https://tour.golang.org/](https://tour.golang.org/) (Free)
+     - Haskell: [https://www.haskell.org/documentation/](https://www.haskell.org/documentation/)
 
 ** Additional Recommendations
 - After completing these phases, consider enrolling in the backend development bootcamp at Boot.dev to solidify your knowledge of backend development, data structures, and algorithms:
@@ -83,7 +84,7 @@ This learning path is designed to help you transition from basic Python knowledg
 - Python Basics, OOP, and Algorithms: 6-8 weeks
 - C Programming and Memory Management: 6-8 weeks
 - Operating Systems: 4-6 weeks
-- Development Tools and Go: 6-8 weeks
+- Development Tools and become a geek: 6-8 weeks
 
 ** Final Note
 Consistency and practice are key. Focus on building a strong foundation, and don't hesitate to revisit concepts when needed.

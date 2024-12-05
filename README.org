@@ -1,0 +1,89 @@
+#+author: Aldo Jimenez Wiehoff
+* Learning Path to Become a Developer
+
+This learning path is designed to help you transition from basic Python knowledge to becoming a proficient developer. The focus is on Python, C, operating systems, and essential development tools.
+
+** Prerequisites
+- Basic knowledge of Python.
+
+** Phase 1: Mastering Python Basics, Object-Oriented Programming (OOP), and Algorithms
+1. Learn Python syntax and foundational concepts:
+   - Topics: Variables, control structures, functions, modules, and file handling.
+   - Recommended Resources:
+     - "Automate the Boring Stuff with Python" by Al Sweigart (Free: [https://automatetheboringstuff.com/](https://automatetheboringstuff.com/))
+     - "Python Crash Course" by Eric Matthes (Paid)
+
+2. Master Object-Oriented Programming:
+   - Topics: Classes, objects, inheritance, polymorphism, encapsulation.
+   - Recommended Resources:
+     - "Object-Oriented Programming in Python" by Michael H. Goldwasser and David Letscher (Paid)
+     - Python documentation on OOP: [https://docs.python.org/3/tutorial/classes.html](https://docs.python.org/3/tutorial/classes.html) (Free)
+
+3. Learn basic data structures and algorithms:
+   - Topics: Lists, stacks, queues, trees, hashmaps, sorting algorithms, and search algorithms.
+   - Recommended Resources:
+     - "Grokking Algorithms" by Aditya Bhargava (Paid)
+     - "Problem Solving with Algorithms and Data Structures Using Python" by Bradley N. Miller and David L. Ranum (Free: [https://runestone.academy/ns/books/published/pythonds3/](https://runestone.academy/ns/books/published/pythonds3/))
+
+** Phase 2: Learning C Programming and Memory Management
+1. Learn the basics of C programming:
+   - Topics: Data types, control flow, functions, arrays, and structs.
+   - Recommended Resources:
+     - "The C Programming Language" by Brian Kernighan and Dennis Ritchie (Paid)
+     - "Learn C the Hard Way" by Zed Shaw (Free draft available: [https://learncodethehardway.org/c/](https://learncodethehardway.org/c/))
+
+2. Dive into pointers and memory management:
+   - Topics: Pointers, dynamic memory allocation, and debugging.
+   - Recommended Resources:
+     - "Understanding and Using C Pointers" by Richard Reese (Paid)
+     - TutorialsPoint on C Pointers: [https://www.tutorialspoint.com/cprogramming/c_pointers.htm](https://www.tutorialspoint.com/cprogramming/c_pointers.htm) (Free)
+
+** Phase 3: Understanding Operating Systems
+1. Learn the fundamentals of operating systems:
+   - Topics: Processes, threads, scheduling, memory management, and file systems.
+   - Recommended Resources:
+     - "Operating Systems: Three Easy Pieces" by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau (Free: [http://pages.cs.wisc.edu/~remzi/OSTEP/](http://pages.cs.wisc.edu/~remzi/OSTEP/))
+
+2. Explore the XV6 OS:
+   - Topics: Kernel, system calls, and OS architecture.
+   - Recommended Resources:
+     - XV6 documentation: [https://pdos.csail.mit.edu/6.828/2022/xv6.html](https://pdos.csail.mit.edu/6.828/2022/xv6.html) (Free)
+
+** Phase 4: Learning Development Tools and Go Programming
+1. Master Git:
+   - Topics: Version control basics, branching, merging, and collaboration.
+   - Recommended Resources:
+     - "Pro Git" by Scott Chacon and Ben Straub (Free: [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2))
+
+2. Learn Linux and terminal usage:
+   - Topics: File navigation, shell scripting, permissions, and package management.
+   - Recommended Resources:
+     - "The Linux Command Line" by William Shotts (Free: [https://linuxcommand.org/tlcl.php](https://linuxcommand.org/tlcl.php))
+     - TutorialsPoint Linux Guide: [https://www.tutorialspoint.com/unix/index.htm](https://www.tutorialspoint.com/unix/index.htm) (Free)
+
+3. Learn Go programming:
+   - Topics: Go syntax, concurrency, and performance optimization.
+   - Recommended Resources:
+     - "The Go Programming Language" by Alan Donovan and Brian Kernighan (Paid)
+     - A Tour of Go: [https://tour.golang.org/](https://tour.golang.org/) (Free)
+
+** Additional Recommendations
+- After completing these phases, consider enrolling in the backend development bootcamp at Boot.dev to solidify your knowledge of backend development, data structures, and algorithms:
+  - Boot.dev Backend Bootcamp: [https://boot.dev/](https://boot.dev/) (Paid)
+
+** Additional Tips
+- Practice coding daily on platforms like:
+  - [LeetCode](https://leetcode.com/)
+  - [HackerRank](https://www.hackerrank.com/)
+  - [Codewars](https://www.codewars.com/)
+- Work on personal projects to solidify your learning.
+- Join developer communities for support and networking.
+
+** Estimated Timeline
+- Python Basics, OOP, and Algorithms: 6-8 weeks
+- C Programming and Memory Management: 6-8 weeks
+- Operating Systems: 4-6 weeks
+- Development Tools and Go: 6-8 weeks
+
+** Final Note
+Consistency and practice are key. Focus on building a strong foundation, and don't hesitate to revisit concepts when needed.
